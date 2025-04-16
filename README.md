@@ -12,7 +12,7 @@
 
 <p justify-content="center">
   
- [![My Skills](https://skillicons.dev/icons?i=python,mysql,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,mysql,git,java,postgresql,docker)](https://skillicons.dev)
 
 </p>
 
